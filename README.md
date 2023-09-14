@@ -11,21 +11,21 @@ The code which should be run on the Pico can be found in 'main.py'. WLAN and Pus
 ## Images
 
 <figure>
-    <img src="/images/overview.jpg" alt="PlantPal system" width="200"/>
+    <img src="/images/overview.jpg" alt="PlantPal system" width="500"/>
     <figcaption>PlantPal system</figcaption>
 </figure>
 
 <figure>
-    <img src="/images/closeup.jpg" alt="Raspberry Pi Pico close-up (powered by a powerbank)" width="200"/>
+    <img src="/images/closeup.jpg" alt="Raspberry Pi Pico close-up (powered by a powerbank)" width="500"/>
     <figcaption>Raspberry Pi Pico close-up (powered by a powerbank)</figcaption>
 </figure>
 
 <figure>
-    <img src="/images/notification.jpg" alt="Notifications received on iPhone" width="200"/>
+    <img src="/images/notification.jpg" alt="Notifications received on iPhone" width="500"/>
     <figcaption>Notifications received on iPhone</figcaption>
 </figure>
 
 <figure>
-    <img src="/images/sensor.jpg" alt="Close up of a moisture sensor" width="200"/>
+    <img src="/images/sensor.jpg" alt="Close up of a moisture sensor" width="500"/>
     <figcaption>Close up of a moisture sensor</figcaption>
 </figure>
