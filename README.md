@@ -8,10 +8,24 @@ This project uses 2 moisture sensors to continuously monitor 2 plants. A notific
 
 The code which should be run on the Pico can be found in 'main.py'. WLAN and Pushover (or other notification API) credentials require modification.
 
-![Alt text](/images/overview.jpg?raw=true "Plant monitor system")
+## Images
 
-![Alt text](/images/closeup.jpg?raw=true "Raspberry Pi Pico close-up (powered by a powerbank)")
+<figure>
+    <img src="/images/overview.jpg" alt="PlantPal system" width="200"/>
+    <figcaption>PlantPal system</figcaption>
+</figure>
 
-![Alt text](/images/notification.jpg?raw=true "Notifications received on iPhone")
+<figure>
+    <img src="/images/closeup.jpg" alt="Raspberry Pi Pico close-up (powered by a powerbank)" width="200"/>
+    <figcaption>Raspberry Pi Pico close-up (powered by a powerbank)</figcaption>
+</figure>
 
-![Alt text](/images/sensor.jpg?raw=true "Close up of a moisture sensor")
+<figure>
+    <img src="/images/notification.jpg" alt="Notifications received on iPhone" width="200"/>
+    <figcaption>Notifications received on iPhone</figcaption>
+</figure>
+
+<figure>
+    <img src="/images/sensor.jpg" alt="Close up of a moisture sensor" width="200"/>
+    <figcaption>Close up of a moisture sensor</figcaption>
+</figure>
